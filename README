@@ -1,0 +1,7 @@
+Dataset source: https://www.kaggle.com/datasets/ulrikthygepedersen/speed-dating?select=speeddating.csv
+
+This project aims to predict if two people will match using a dataset gathered from experimental speed dating events from 2002-2004.
+
+The dataset includes information from participants who had a four-minute "first date" with every other participant of the opposite sex, and were asked to rate their date on attributes including: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
+
+Participants were also asked whether they would like to see their date again and filled out questionnaires on demographics, dating habits, self-perception, beliefs on what others find valuable in a mate, and lifestyle information.
